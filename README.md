@@ -34,6 +34,7 @@ This activity is part of a longer workshop for Introduction to Git and GitHub.  
 * Starting a project
 * `git init`
 * Creating snapshots of our project
+  * Checking out different snapshots
 * Putting our project online
 
 ## Collaborating
